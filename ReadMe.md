@@ -1,0 +1,1 @@
+This template installs Oracle java 8 on an Ubuntu host
